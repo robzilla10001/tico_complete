@@ -9,7 +9,7 @@ Based on Tico 0.7.1 released 4/26/2026. To use newer version of Tico with this s
 To provide a drag and drop solution to getting Tico up and running on your NSW. Discord is inundated with "Where do the cores go?" "Where can I get the cores?" "The server is down!" "What format is the boxart in?" etc.
 
 # How To Use
-Extract to an easily accessible place on your PC or directly to the root of the SD card for your NSW. If asked, merge /switch and /tico folders and replace older files. If extracted to your PC, copy files over to SD card.
+Extract to an easily accessible place on your PC or directly to the root of the SD card for your NSW. If extracted to your PC, copy files over to SD card. If asked, merge /switch and /tico folders and replace older files. 
 Homescreen Forwarder provided, courtesy of https://nsp-forwarder.n8.io/ .
 
 # Included
