@@ -1,20 +1,20 @@
 # tico_complete
 Complete OOB Tico Setup
 
-# v0.1
+# v0.2
 Minimal Tico Setup with boxarts, cores, roms, BIOSs (untested, defaults seem to work for most systems). NO disc based systems, currently no boxart for FBNeo.
-Based on Tico 0.7.1 released 4/26/2026. To use newer version of Tico with this set, copy /switch and /tico folders from new distribution over the current, merging folders and overwriting older versions of files.
+Based on Tico 0.7.1 released 4/26/2026, all cores up to date except Flycast, which I manually updated but is still showing out of date in Tico. To use newer version of Tico with this set, copy /switch and /tico folders from new distribution over the current, merging folders and overwriting older versions of files.
 
 # Purpose
 To provide a drag and drop solution to getting Tico up and running on your NSW. Discord is inundated with "Where do the cores go?" "Where can I get the cores?" "The server is down!" "What format is the boxart in?" etc.
 
 # How To Use
 Extract to an easily accessible place on your PC or directly to the root of the SD card for your NSW. If extracted to your PC, copy files over to SD card. If asked, merge /switch and /tico folders and replace older files. 
-Homescreen Forwarder provided, courtesy of https://nsp-forwarder.n8.io/ .
+Homescreen Forwarder provided, courtesy of https://nsp-forwarder.n8.io/ . Use DBI to install sd:/Tico - Forwarder.nsp
 
 # Included
 * Cores
-  * All available at time of 0.7.0 release; not updated at time of 0.7.1 release. Slated for future build when MelonDS is released.
+  * v0.2: All available at time of 0.7.1 release; sans Flycast. Awaiting MelonDS core.
 * Boxarts
   * All avaialble for all systems supported; 
   * Disc based systems and FBNeo not included. Unable to find a way to RELIABLY obtain all FBNeo boxarts, working on that for next release.
@@ -27,7 +27,7 @@ Homescreen Forwarder provided, courtesy of https://nsp-forwarder.n8.io/ .
     * Sega Dreamcast: 184GB
     * Sega Saturn : 213GB
     * Sony Playstation: 556GB
-  * If there is enough demand, I can share 1G1R torrents for those systems, though they are easily obtainable via Google.
+  * v0.2: Uploaded disc systems to /rom-sets repository under robzilla10001.
 
  # DISCLAIMER
  tico is an independent homebrew project. Not affiliated with Nintendo, Sony, or any console manufacturer. Nintendo Switch is a trademark of Nintendo Co., Ltd. If you appreciate the tico project, you *should* donate to the author here: https://ko-fi.com/ticoverse
